@@ -12,8 +12,12 @@
 
 接下来让我们来实现一个非常简单的小实验吧~
 
-实验内容：
+# 实验内容：
 
 一、创建一个内容为“hello word！”的a.txt文件与一个空的destination文件夹。
+
 二、读取a.txt文件中内容并输出。
+
 三、将a.txt文件内容写出到destination文件夹内，保存为b.txt
+
+四、尝试将一个8MB的mp4文件写入destination文件夹内。
