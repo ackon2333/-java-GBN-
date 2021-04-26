@@ -2,7 +2,7 @@
 
 先上自己调教好的IDEA界面
 
-！[image](https://github.com/ackon2333/-java-GBN-/blob/main/%E9%9B%B6%E3%80%81IDEA%E6%8E%A8%E8%8D%90/IDEA%E7%95%8C%E9%9D%A2.jpg)
+![image](-java-GBN-/零、IDEA推荐/IDEA界面.jpg)
 
 IDEA下载网址：https://www.jetbrains.com/zh-cn/idea/download/#section=windows  下载community版本就足够使用啦。
 
